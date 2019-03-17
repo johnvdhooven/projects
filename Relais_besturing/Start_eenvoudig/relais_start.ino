@@ -1,4 +1,4 @@
-// Basic 4 Realy board connection
+// Basic 4 Relay board connection
 // Each relay is turned on for 2 seconds and then off.
 // You can here them click as there state changes from off to on and on to
 // off.
